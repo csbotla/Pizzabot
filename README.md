@@ -1,5 +1,5 @@
 # Pizzabot
-## Made with **_DialogFlow_ (v1)**
+## Made with **_DialogFlow(v1)_**
 
 >v1 API shutdown expected 31st March 2020
 
