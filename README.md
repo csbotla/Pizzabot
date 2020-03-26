@@ -23,7 +23,6 @@ Dialogflow helps integration with all of these
   <img src="https://cdn.iconscout.com/icon/free/png-256/facebook-messenger-2-569346.png" alt="FB Messenger" width="20">
   <img src="https://typo3.org/fileadmin/t3o_common_storage/images/logos/slack.svg" alt="Slack" width="20">
   <img src="https://assets-global.website-files.com/55e67eeba2e73cb76514f165/5b45dcf979eda4c0ad71abe7_Twitter.png" alt="Twitter" width="20">
-  <img src="https://assets-global.website-files.com/55e67eeba2e73cb76514f165/5b45dcf979eda4c0ad71abe7_Twitter.png" alt="Twitter" width="20">
   <img src="https://telegram.org/img/td_icon.png" alt="Telegram" width="20">
   <img src="https://ask-toolkit.gallerycdn.vsassets.io/extensions/ask-toolkit/alexa-skills-kit-toolkit/1.0.2/1569546337166/Microsoft.VisualStudio.Services.Icons.Default" alt="Alexa" width="20">
 </p>
