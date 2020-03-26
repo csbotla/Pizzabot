@@ -11,7 +11,7 @@ Orders data stored in **Firebase**
 
 <img src="https://www.gstatic.com/devrel-devsite/prod/vf4743e4237527d72f4be8582639e4a529166b52e9bb628e797b1ed38800b278b/firebase/images/lockup.png" alt="Firebase" width="100">
 
-[Click here for Demo](https://pizzabot-ym.netlify.com/ "Pizza Bot")
+[Click here for Pizzabot Demo](https://pizzabot-ym.netlify.com/ "Pizza Bot")
 
 Used intents and entities
 
