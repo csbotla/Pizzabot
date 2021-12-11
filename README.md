@@ -1,5 +1,6 @@
 
-# Pizzabot 
+# Pizzabot
+> No Longer Supported 
 ## Made with **_DialogFlow(v1)_** <img src="https://seeklogo.com/images/A/apiai-logo-77596EA86F-seeklogo.com.png" width="20">
 
 
